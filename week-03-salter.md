@@ -6,3 +6,7 @@ Media designed with the intent to engage with the senses in new ways will undoub
 ![Virtual Reality](VRweek3.jpg). 
 
 ! (https://www.youtube.com/watch?v=DafgiEcXr6c)
+
+The Black Sun exhibition would qualify as a Gestumkunswerk. This exhibition merged many of the emotive and sensory human sensations that help to set the atmosphere. Inspired by pornography, horror and architechture this exhibit crafed a unqiue experience1
+
+! (https://www.youtube.com/watch?v=rXpcVztGE38)
