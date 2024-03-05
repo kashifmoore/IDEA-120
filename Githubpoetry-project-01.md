@@ -1,7 +1,7 @@
 <ThisCharacterisCheap!>
 <h1>Dawg this character is Fucking Cheap</h1>
 
-![akuma](cheapcharacter4.jpg)
+![akuma](akuma.jpg)
 <html>
 <head>
 <link rel="stylesheet" href="mystyle.css">
@@ -15,7 +15,7 @@ Beneath the mask of deceit does it weep
 A heart so numb, consumed by greed
 A cheap facade, where no light can lead
   
-![Unknown](Unknown.jpeg)
+![Unknown](mrcrabs.jpeg)
 
 Yet with a flicker in the dark
 A spark of hope, a distant spark
